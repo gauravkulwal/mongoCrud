@@ -1,0 +1,9 @@
+.card{
+   width:300px;
+   margin: 20px auto;
+   padding: 10px;
+}
+button{
+    margin-top: 5px;
+    float: right;
+}
